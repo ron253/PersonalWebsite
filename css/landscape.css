@@ -8,6 +8,11 @@
   #navigation-bar .container {
     padding:0px;
   }
+
+  .resize {
+    width:100%;
+  }
+
   /* scroll  */
   .scroll {
     width:568px;
@@ -131,40 +136,41 @@
   }
 
 
-  #hp2 {
-    font-style: normal;
-    font-weight: 500;
-    font-size: 2rem;
-    line-height: 62px;
-  }
 
-  #hp3 {
-    font-style: normal;
-    font-weight: normal;
-    font-size: 0.76rem;
-    line-height: 19px;
-  }
+    #hp2 {
+      font-style: normal;
+      font-weight: 500;
+      font-size: 3em;
+      line-height: 62px;
+    }
 
-  #hp4 {
-    font-style: normal;
-    font-weight: 500;
-    font-size: 0.76rem;
-    line-height: 21px;
-  }
+    #hp3 {
+      font-style: normal;
+      font-weight: normal;
+      font-size: 1em;
+      line-height: 19px;
+    }
 
-  .hp5 {
-    font-style: normal;
-    font-weight: normal;
-    font-size: 0.476rem;
-    line-height: 12px;
-  }
+    #hp4 {
+      font-style: normal;
+      font-weight: 500;
+      font-size: 1em;
+      line-height: 21px;
+    }
 
-  #hp6 {
-    font-style: normal;
-    font-weight: bold;
-    font-size: 0.66rem;
-    line-height: 18px;
-  }
+    .hp5 {
+      font-style: normal;
+      font-weight: normal;
+      font-size: 0.476rem;
+      line-height: 12px;
+    }
+
+    #hp6 {
+      font-style: normal;
+      font-weight: bold;
+      font-size: 0.750em;
+      line-height: 18px;
+    }
   /* view work */
   .view-work {
     padding-top:10px;
@@ -196,7 +202,7 @@
   .skill-1 h6 {
     font-style: normal;
     font-weight: normal;
-    font-size: 0.476rem;
+    font-size: 0.625em;
     line-height: 12px;
   }
   .skill-2 {
@@ -212,7 +218,7 @@
   .skill-2 h6 {
     font-style: normal;
     font-weight: normal;
-    font-size: 0.476rem;
+    font-size: 0.625em;
     line-height: 12px;
   }
   /* column 2 */
@@ -260,7 +266,7 @@
 
   /* embellishments */
   .rectangle {
-    width:120px;
+    width:200px;
     height:6px;
     left:4px;
     top:138px;
@@ -340,7 +346,7 @@
     font-family: Lato;
     font-style: normal;
     font-weight: 500;
-    font-size: 0.5714285714285714rem;
+    font-size: 0.750em;
     line-height: 14px;
   }
 
@@ -348,7 +354,7 @@
     font-family: IBM Plex Sans;
     font-style: normal;
     font-weight: 600;
-    font-size: 1.5238095238095237rem;
+    font-size: 2em;
     line-height: 42px;
   }
 
@@ -356,7 +362,7 @@
     font-family: Lato;
     font-style: normal;
     font-weight: normal;
-    font-size: 0.47619047619047616rem;
+    font-size: 0.625em;
     line-height: 12px;
   }
 
@@ -364,7 +370,7 @@
     font-family: Lato;
     font-style: normal;
     font-weight: normal;
-    font-size: 0.7619047619047619rem;
+    font-size: 1em;
     line-height: 19px;
   }
 
@@ -379,7 +385,7 @@
   .title {
     font-style: normal;
     font-weight: 600;
-    font-size: 1rem;
+    font-size: 1.5em;
     line-height: 31px;
 
   }
@@ -388,7 +394,7 @@
     font-family: Lato;
     font-style: normal;
     font-weight: normal;
-    font-size: 0.6666666666666666rem;
+    font-size: 1em;
     line-height: 26px;
   }
 
@@ -414,7 +420,7 @@
   #about-title {
     font-style: normal;
     font-weight: 500;
-    font-size: 1rem;
+    font-size: 1em;
     line-height: 29px;
   }
 
@@ -436,6 +442,7 @@
 
   .about-title-txt {
     color:rgb(255,255,1);
+    font-size:1.3em;
   }
 
 

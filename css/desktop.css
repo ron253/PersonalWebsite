@@ -16,9 +16,13 @@
   }
 
 
-  /* custon javascript  */
-  #navigation-bar {
-    opacity:0;
+
+  .img-fluid {
+    width:100%;
+  }
+
+  .resize {
+    width:50%;
   }
 
 
