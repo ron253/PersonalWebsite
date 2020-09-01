@@ -1,0 +1,453 @@
+@media (min-width: 992px) {
+  /* Background color */
+  html, body, .navbar-custom{
+    background-color: #000000;
+  }
+
+  /* navigation */
+  #navbarNav {
+    display:flex;
+    justify-content:flex-end;
+
+  }
+
+  #navigation-bar .container {
+    padding-left:0px;
+  }
+
+
+
+  .img-fluid {
+    width:100%;
+  }
+
+  .resize {
+    width:50%;
+  }
+
+
+
+
+
+    /* main content */
+    #scroll-bar {
+      padding-top:10%;
+    }
+
+
+
+    #inner-row-custom-col-2 {
+      border:3px solid #760EF1;
+      box-sizing:border-box;
+
+    }
+
+    #inner-custom-col-2 {
+      padding:3px 15px 0px 3px;
+      background:rgb(23,10,45);
+      box-shadow:0px -13px 40px rgba(0,0,0,0.08);
+    }
+
+
+
+    .no-padding {
+      padding:0px;
+    }
+
+  /* buttons */
+  .purple-bg {
+    background:linear-gradient(162.77deg, #8000F1 12.24%, #00ABF2 158.81%);
+  }
+
+
+  /* Icons*/
+  .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba(255, 255, 255, 1)' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  }
+  /* header,links,para color */
+  .navbar-brand, ul a, h6,h1, p,h4,h5, h3,footer{
+
+    color:white;
+  }
+
+  .nav-link {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.000em;
+    line-height: 19px;
+
+    }
+
+
+
+  .navbar-brand {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 500;
+    font-size:1.500em;
+    line-height: 29px;
+  }
+
+  .flex {
+    display:flex;
+    padding:1%;
+  }
+
+
+
+
+
+
+  /* topgraphy*/
+
+  h1 {
+    font-family: IBM Plex Sans;
+  }
+
+  h2,h3,h4,h5,h6 {
+    font-family: Lato;
+  }
+
+
+  /* font sizes */
+
+  #hp1 {
+    font-size: 1.500em;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 29px;
+
+  }
+
+  #scroll-bar h1 {
+    padding-top:6%;
+
+  }
+
+  #hp2 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 2em;
+    line-height: 62px;
+  }
+
+
+
+  #hp3 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 1.000em;
+    line-height: 19px;
+  }
+
+  #hp4 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 21px;
+  }
+
+  #pronouns {
+    font-size:0.875em
+  }
+
+  .hp5 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 0.476rem;
+    line-height: 12px;
+  }
+
+  #hp6 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 0.86rem;
+    line-height: 18px;
+  }
+
+
+  /* view work */
+  .view-work {
+    padding-top:10px;
+  }
+
+  #arrow {
+      width:16px;
+     height:40px;
+     padding-top:1%;
+
+
+
+  }
+
+
+
+  /* skills tag */
+  .skill-tags {
+    display:flex;
+    width: 66px;
+    height: 18px;
+    padding-top:1%
+
+  }
+
+  .skill-1 {
+    width: 36px;
+    height: 18px;
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    text-align:center;
+    padding:3px;
+  }
+
+  .skill-1 h6 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 0.625em;
+    line-height: 12px;
+  }
+  .skill-2 {
+    width: 50px;
+    height: 18px;
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    text-align:center;
+    padding:3px;
+    margin-left:10px;
+  }
+
+  .skill-2 h6 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 0.625em;
+    line-height: 12px;
+  }
+
+
+  /* scroll shadow */
+  .scroll-shadow {
+    background: rgba(0, 0, 0, 0.7);
+
+  }
+
+  /* font sizes links and text */
+  ul a {
+    font-family: 'Lato', sans-serif;
+      font-style: normal;
+      font-weight: 500;
+      font-size: 1rem;
+      line-height: 19px;
+
+  }
+
+  a, a:hover {
+    text-decoration:none;
+  }
+  /* hover */
+  a:hover {
+
+    color:white;
+  }
+
+  /* embellishments */
+  .rectangle {
+    width:200px;
+    height:6px;
+    left:4px;
+    top:138px;
+    background:linear-gradient(171.93deg, #8000F1 12.24%, #00ABF2 158.81%);
+  }
+
+  /* icons */
+  .fa {
+    color:white;
+  }
+
+  .padding-top {
+    padding-top:5%;
+  }
+
+
+
+
+  /* footer */
+  #footer {
+    padding-top:10%;
+
+  }
+
+  #social-links {
+    display:flex;
+    justify-content:flex-end;
+    padding-right:3%;
+  }
+
+
+
+  #copyright-txt {
+    width:91px;
+    font-family: Lato, sans-serif;
+    font-style:normal;
+    font-weight:500;
+    font-size:0.5714285714285714rem;
+    display:flex;
+    align-self: flex-end;
+    color:#FFFFFF;
+
+
+  }
+
+   #copyright-padding-left {
+     display:flex;
+     justify-content:flex-start;
+   }
+
+   .copyright-img {
+     display:flex;
+     align-self:flex-end;
+   }
+
+   /* projects.html */
+   .dates h6, .role h6 {
+     margin:0px;
+   }
+
+   #inner-col-row-1 {
+
+     padding-top:5%;
+   }
+
+
+
+   /* #inner-col-row-2 {
+     display:flex;
+   } */
+
+   #inner-col-row-1 h6, #inner-col-row-2 h6 {
+     margin-bottom:0px;
+   }
+
+   .padding-bottom {
+     padding-bottom:5%;
+   }
+
+   #para-1, #para-2, #para-3, #para-4, #para-5 {
+     padding-top:10%;
+   }
+
+   #ita {
+     font-family: Lato;
+     font-style: normal;
+     font-weight: 500;
+     font-size: 0.750em;
+     line-height: 14px;
+   }
+
+   #gender-equity {
+     font-family: IBM Plex Sans;
+     font-style: normal;
+     font-weight: 600;
+     font-size: 2.000em;
+     line-height: 42px;
+   }
+
+   .subheader {
+     font-family: Lato;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 0.625em;
+     line-height: 12px;
+
+   }
+
+   .subheader-txt {
+     font-family: Lato;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 1.000em;
+     line-height: 19px;
+   }
+
+   .inner-col-buttons-btns {
+     font-family: IBM Plex Sans;
+     font-style: normal;
+     font-weight: 600;
+     font-size: 0.6666666666666666rem;
+     line-height: 22px;
+
+   }
+
+   .margin-left {
+     margin-left:3%
+   }
+
+   .margin-top {
+     margin-top:3%;
+   }
+
+   .title {
+     font-style: normal;
+     font-weight: 600;
+     font-size: 1.500em;
+     line-height: 31px;
+
+   }
+
+   p {
+     font-family: Lato;
+     font-style: normal;
+     font-weight: normal;
+     font-size: 1.000em;
+     line-height: 26px;
+   }
+
+   #banner-img {
+     padding-top:5%;
+   }
+
+   #content {
+     height:2829px;
+     padding-top:5%;
+   }
+
+   #profile-pic {
+     height:157px;
+     border:2px solid #760EF1;
+     box-sizing:border-box;
+
+   }
+
+   #about {
+     padding-top:10%;
+   }
+
+
+   #row2 {
+     padding-top:10%;
+   }
+
+   #row3 {
+     padding-top:10%;
+   }
+
+   #row3 h4 {
+     padding-top:2%
+   }
+
+   .about-title-txt {
+     color:rgb(255,255,1);
+   }
+
+   /* Contact Form */
+
+   .form-center-container {
+     padding-top:10%;
+   }
+
+   .form-text-color {
+     color:#FFFFFF;
+   }
+
+
+}
