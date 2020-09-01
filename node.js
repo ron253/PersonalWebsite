@@ -71,7 +71,7 @@ function (req, res) {
 
     transport.sendMail(mailDetails, function (error, info){
       if(error) {
-        console.log(error.message)
+        res.sendFile(__dirname + "/failure.html")
       }
       else {
         res.sendFile(__dirname + "/success.html");
